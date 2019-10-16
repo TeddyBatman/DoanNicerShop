@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DoanShop</string>
+    <string name="welcome_text">Welcome To DoanShop</string>
+    <string name="shop_button">Shop!</string>
+    <string name="thanks_text">Thanks for using my app!</string>
+    <string name="total_text">Total</string>
+    <string name="subtotal_text">Subtotal</string>
+    <string name="tvq_text">TVQ</string>
+    <string name="tps_text">TPS</string>
+    <string name="quantity_text">Quantity:</string>
+    <string name="add_button">Add</string>
+    <string name="quantity_show">Quantity</string>
+    <string name="remove_button">Remove</string>
+    <string name="checkout_button">Checkout</string>
+
+
+    <string name="model3_text">Model 3</string>
+    <string name="models_text">Model S</string>
+    <string name="modelx_text">Model X</string>
+    <string name="title_activity_nicer_menu">NicerMenuActivity</string>
+    <string-array name="shippingMethods">
+        <item name="express">Express:50$</item>
+        <item>Regular:10$</item>
+        <item>No hurry:0$</item>
+    </string-array>
+</resources>
