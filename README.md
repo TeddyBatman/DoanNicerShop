@@ -1,10 +1,9 @@
-# DoanShop
-Assignment 1
+# DoanNicerShop
+Assignment 2
 
-This assignment is a shop in which I have 3 different items in which you can add and remove to the total quantity of each item.
-Furthermore you can checkout and have both tps and tvq taxes into the subtotal you have and it will create the new total with tax included.
+This assignment is a shop where it has a recycler view to display the items to be purchased in which you can add and substract the quantity. It is supposed to be an upgraded version from the DoanShop.
 
-I have taken inspiration from a codelab where there was a counter that goes up ( Hello Toast).
-I have also used stackoverflow for help when I needed to send intents to another activity as int/double to strings and found out that using
-a bundle is a lot more efficient rather than sending each intent extra one by one.
+I have taken inspiration from a couple of codelabs
+I have also used stackoverflow to find and help with mistakes I have gotten.
 
+I have come into problem with time management and was not able to complete this assignment on due time or to put the amount of work I wanted to because of a dilemma that happened at work.
